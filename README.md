@@ -30,9 +30,6 @@ _Built with the tools and technologies:_
 
 AI-Powered-Music-Recommendation-Chatbot is a comprehensive developer toolkit for creating personalized music recommendation systems enhanced with machine learning and NLP capabilities. It combines data processing, feature engineering, and model training to deliver accurate, tailored music suggestions, while also supporting sentiment analysis through BERT-based models.
 
-### Why AI-Powered-Music-Recommendation-Chatbot?
-
-*(...Your content here...)*
 
 ---
 
